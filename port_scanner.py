@@ -7,7 +7,7 @@ queue = Queue()
 open_ports = []
 
 target = input(
-    "Enter destination port->""")  # target ip is requested from user
+    "Enter destination ip->""")  # target ip is requested from user
 
 
 def portscan(port):
